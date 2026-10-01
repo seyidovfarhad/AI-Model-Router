@@ -1,0 +1,6 @@
+numpy
+sentence_transformers
+httpx
+fastapi
+uvicorn
+dotenv
